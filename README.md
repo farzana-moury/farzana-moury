@@ -8,9 +8,9 @@ I'm currently...
 * 👩‍💻 seeking frontend opportunities
 
 I previously...
-* 🎓 earned an Advanced Diploma in Mobile App Development
-* 📱 built Android, iOS and cross-platform mobile apps
-* 🕹 built a 2D pixelated platform adventure game
+* 🎓 earned an advanced diploma in mobile app development
+* 📱 built android, ios and cross-platform mobile apps
+* 🕹 built a 2d pixelated platform adventure game
 
 Ask me about...
 * 🎨 what I should paint
