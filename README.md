@@ -23,11 +23,11 @@ Ask me about...
 
 <!-- ## GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=farzana-moury&show_icons=true&theme=dark" alt="farzana's github stats" width="45%" align="left"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=farzana-moury&show_icons=true&theme=dark" alt="farzana's github stats" width="45%" align="left"/> -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-moury&theme=dark" alt="farzana's github readme streak stats" width="48%" >
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=farzana-moury&theme=dark" alt="farzana's github readme streak stats" width="48%" >
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzana-moury&layout=compact&theme=dark" alt="farzana's github top languages stats"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farzana-moury&layout=compact&theme=dark" alt="farzana's github top languages stats"/> -->
 
 <!-- flat-square -->
 
