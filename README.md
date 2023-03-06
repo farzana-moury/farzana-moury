@@ -8,8 +8,8 @@ I'm currently...
 * 👩‍💻 seeking frontend opportunities
 
 I previously...
-* 🎓 got my advanced diploma in mobile app development
-* 📱 built android, ios and cross-platform mobile apps
+* 🎓 studied mobile app development
+* 📱 developed android / ios / cross-platform apps
 * 🕹 built a 2d pixelated platform adventure game
 
 Ask me about...
