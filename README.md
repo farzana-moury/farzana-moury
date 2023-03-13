@@ -3,8 +3,8 @@
 <!-- `I believe in pursuing creativity...it helps me thrive!` -->
 * 🌱 currently becoming a frontend developer
 * 🔭 designing seamless web experiences
-* 📱 previously developed mobile apps
-* 🕹 hope to publish indie games soon
+* 📱 previously developed mobile applications
+* 🕹 one day I hope to publish indie games
 * 🎨 creating art makes me happy
 * 🍜 lover of noodles - any kind!
 
