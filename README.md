@@ -7,15 +7,15 @@ I'm currently...
 * 🔭 working on my frontend portfolio
 * 👩‍💻 seeking frontend opportunities
 
-I previously...
+<!-- I previously...
 * 🎓 studied mobile app development
 * 📱 developed android / ios / cross-platform apps
-* 🕹 built a 2d pixelated platform adventure game
+* 🕹 built a 2d pixelated platform adventure game -->
 
 Ask me about...
 * 🎨 what I should paint
 * 👾 my favourite pixel games and assets
-* 🍜 ramen recipes
+* 🍜 ramen recipes 
 
 <!-- ## Languages, Tools and Frameworks -->
 
