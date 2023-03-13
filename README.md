@@ -1,25 +1,33 @@
 ## Hello, I'm Farzie. 👾
 
 <!-- `I believe in pursuing creativity...it helps me thrive!` -->
+* 🌱 &nbsp; currently becoming a frontend developer
+* 🔭 &nbsp; designing seamless web experiences
+* 📱 &nbsp; previously developed mobile apps
+* 🕹 &nbsp; hope to publish indie games one day
+* 🎨 &nbsp; creating art makes me happy
+* 🍜 &nbsp; lover of noodles
 
+
+<!--
 I'm currently...
 * 🌱 learning frontend development
 * 🔭 working on my frontend portfolio
 * 👩‍💻 seeking frontend opportunities
 
-<!-- I previously...
+I previously...
 * 🎓 studied mobile app development
 * 📱 developed android / ios / cross-platform apps
-* 🕹 built a 2d pixelated platform adventure game -->
+* 🕹 built a 2d pixelated platform adventure game 
 
 Ask me about...
 * 🎨 what I should paint
 * 👾 my favourite pixel games and assets
-* 🍜 ramen recipes 
+* 🍜 ramen recipes -->
 
 <!-- ## Languages, Tools and Frameworks -->
-
-![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Ember](https://img.shields.io/badge/Ember-1C1E24?style=flat-square&logo=ember.js&logoColor=#D04A37) ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+<!-- 
+![HTML5](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) ![Ember](https://img.shields.io/badge/Ember-1C1E24?style=flat-square&logo=ember.js&logoColor=#D04A37) ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) -->
 
 <!-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 
