@@ -4,7 +4,7 @@
 * 🌱 currently becoming a frontend developer
 * 🔭 designing seamless web experiences
 * 📱 previously developed mobile apps
-* 🕹 one day I hope to publish indie games
+* 🕹 hope to publish indie games someday
 * 🎨 creating art makes me happy
 * 🍜 lover of noodles
 
