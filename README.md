@@ -1,12 +1,12 @@
 ## Hello, I'm Farzie. 👾
 
 <!-- `I believe in pursuing creativity...it helps me thrive!` -->
-* 🌱 &nbsp; currently becoming a frontend developer
-* 🔭 &nbsp; designing seamless web experiences
-* 📱 &nbsp; previously developed mobile apps
-* 🕹 &nbsp; hope to publish indie games one day
-* 🎨 &nbsp; creating art makes me happy
-* 🍜 &nbsp; lover of noodles
+* 🌱 currently becoming a frontend developer
+* 🔭 designing seamless web experiences
+* 📱 previously developed mobile apps
+* 🕹 hope to publish indie games one day
+* 🎨 creating art makes me happy
+* 🍜 lover of noodles
 
 
 <!--
