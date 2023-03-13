@@ -1,4 +1,4 @@
-## Hello, I'm Farzie. 👾
+## Hello! I'm Farzie. 👾
 
 <!-- `I believe in pursuing creativity...it helps me thrive!` -->
 * 🌱 currently becoming a frontend developer
