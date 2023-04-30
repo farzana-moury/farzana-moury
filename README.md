@@ -2,9 +2,9 @@
 
 <!-- `I believe in pursuing creativity...it helps me thrive!` -->
 * 🌱 currently becoming a frontend developer
-* 📱 previously developed mobile apps
 * 🕹 hoping to publish indie games <em>(one day...)</em>
-* 🎨 creating art is my favourite hobby
+* 📱 previously developed mobile apps
+* 🎨 art is my favourite hobby
 
 <!-- * 🍙 <em>"life isn't nice without rice"</em> - me -->
 <!-- * 🔭 designing seamless web experiences -->
