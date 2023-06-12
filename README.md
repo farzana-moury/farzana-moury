@@ -4,7 +4,7 @@
 * 🌱 currently becoming a frontend developer
 * 🕹 hoping to publish indie games <em>(one day...)</em>
 * 📱 previously developed mobile apps
-* 🎨 art is my favourite hobby
+* 🎨 art is a favourite
 
 <!-- * 🍙 <em>"life isn't nice without rice"</em> - me -->
 <!-- * 🔭 designing seamless web experiences -->
