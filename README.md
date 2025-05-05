@@ -1,10 +1,10 @@
 ## 🌸 &nbsp; Hello! I'm Farzie. &nbsp; 🌸
 
 `I believe in pursuing creativity...it helps me thrive!`
-* 🌱 lifelong learner
+<!-- * 🌱 lifelong learner
 * 👩🏻‍💻 software developer
 * 🕹 game developer
-* 🎨 avid artist
+* 🎨 avid artist -->
 
 <!-- * 🍙 <em>"life isn't nice without rice"</em> - me -->
 <!-- * 🔭 designing seamless web experiences -->
